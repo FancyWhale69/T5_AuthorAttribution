@@ -14,9 +14,9 @@ Open the notebook in jupyter notebook to view the code and technical details, or
 
 # Results Summery  
 AraBert performed amazingly will dispaite some documents being very short and some authores having 2-3 huge books.  
-![dash](aa1.png)  
+![dash](aa1.PNG)  
 
-![dash2](aa2.png)  
+![dash2](aa2.PNG)  
 
 
 # Acknowledgment  
