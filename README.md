@@ -1,7 +1,7 @@
 # T5_AuthorAttribution
 
 # Project Motivation  
-King Fahad library is looking for a way to help visitors find Arabic authors based on the author’s writing style and recommend books with similar writing style to get more people into reading by helping them finding books from a certain writing style.  
+The Arabic langauge is a big challenge in the NLP domian because of its huge vocabulary and versatility, in addition it does not get enough attention making it a difficult challenge to overcome. Therefore King Fahad library is looking for a way to help visitors find Arabic authors based on the author’s writing style and recommend books with similar writing style to get more people into reading by helping them finding books from a certain writing style.  
 
 # File Descriptions  
 Proposal- Folder containing the project's proposal  
