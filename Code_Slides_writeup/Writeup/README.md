@@ -1,4 +1,4 @@
-# Aythorship Attribution
+# Authorship Attribution
 ## Abstract
 King Fahad library is looking for a way to help visitors find Arabic authors based on the author’s writing style and recommend books with similar writing style.  
 
