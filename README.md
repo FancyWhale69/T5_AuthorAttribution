@@ -27,6 +27,6 @@ I would like to thank my teammates [Ahmed Al-Jimiai](https://github.com/AAljmiai
 And a special thanks for [SDAIA](https://sourceforge.net/projects/tashkeela/) for providing the dataset.
 
 # Team Memebers
-1- [Hazim Bukhari](https://github.com/FancyWhale69)  
-2- [Ahmed Al-Jimiai](https://github.com/AAljmiai)  
-3- [Abdultawwab Safarji](https://github.com/A-safarji)
+* [Hazim Bukhari](https://github.com/FancyWhale69)  
+* [Ahmed Al-Jimiai](https://github.com/AAljmiai)  
+* [Abdultawwab Safarji](https://github.com/A-safarji)
