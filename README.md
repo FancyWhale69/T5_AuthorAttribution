@@ -28,5 +28,5 @@ And a special thanks for [SDAIA](https://sourceforge.net/projects/tashkeela/) fo
 
 # Team Memebers
 * [Hazim Bukhari](https://github.com/FancyWhale69)  
-* [Ahmed Al-Jimiai](https://github.com/AAljmiai)  
+* [Ahmed Aljmiai](https://github.com/AAljmiai)  
 * [Abdultawwab Safarji](https://github.com/A-safarji)
