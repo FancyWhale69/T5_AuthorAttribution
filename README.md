@@ -9,7 +9,10 @@ MVP- Folder containing the project's Minimum vaiable product
 Code_Slides_writeup- Folder containing the project's notebook (in code folder), PowerPoint presentation (in slides folder), and a summery (in writeup folder)
 
 # How To Interact With Your Project  
-Open the notebook in jupyter notebook to view the code and technical details, or read the slides for a quick view about our findings, or visit the project's [website](https://share.streamlit.io/a-safarji/books-recommnder-/main/basedon_user.py).
+Open the notebook in jupyter notebook to view the code and technical details, or read the slides for a quick view about our findings, or visit the project's [website](https://share.streamlit.io/a-safarji/books-recommnder-/main/basedon_user.py).  
+
+# ِAdditional Information  
+[Recommender System](https://github.com/A-safarji/Books-Recommnder-)
 
 
 # Results Summery  
